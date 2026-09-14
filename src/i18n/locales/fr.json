@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "NM traductions · Neda Mesgari, traductrice-interprète jurée farsi, dari et français",
+    "description": "Traductions jurées du farsi et du dari vers le français, et du français vers le farsi et le dari. Interprétariat en Belgique : actes d'état civil, documents de séjour, pièces juridiques et diplômes."
+  },
+  "person": {
+    "name": "Neda Mesgari"
+  },
+  "nav": {
+    "about": "À propos",
+    "services": "Services",
+    "languages": "Langues",
+    "testimonials": "Témoignages",
+    "contact": "Contact",
+    "cta": "Demander un devis",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Choisir la langue",
+    "skip": "Aller au contenu"
+  },
+  "hero": {
+    "eyebrow": "Traductrice-interprète jurée",
+    "rotatingSr": "Traduction",
+    "lead": "Traductions jurées entre le farsi, le dari et le français, dans les deux sens, et interprétariat pour les administrations, les avocats et les particuliers en Belgique.",
+    "ctaPrimary": "Demander un devis",
+    "ctaSecondary": "Voir les services",
+    "conversion": "Calendrier persan → grégorien",
+    "scroll": "Défiler"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "La précision d'une langue à l'autre, la rigueur d'un document officiel.",
+    "p1": "Je m'appelle Neda Mesgari. Traductrice et interprète jurée, j'accompagne administrations, avocats, services sociaux et particuliers dans leurs démarches en Belgique. Je traduis fidèlement vos documents du farsi et du dari vers le français, et du français vers le farsi et le dari.",
+    "p2": "Chaque traduction est un document qui engage : un nom mal transcrit, une date mal convertie, et c'est tout un dossier qui prend du retard. Je travaille avec méthode, dans le strict respect de la confidentialité, pour que vos pièces soient acceptées du premier coup.",
+    "portraitAlt": "Portrait de Neda Mesgari",
+    "points": {
+      "sworn": {
+        "title": "Jurée",
+        "text": "Inscrite au Registre national des traducteurs et interprètes jurés."
+      },
+      "confidential": {
+        "title": "Confidentielle",
+        "text": "Secret professionnel garanti pour chaque document et chaque entretien."
+      },
+      "precise": {
+        "title": "Rigoureuse",
+        "text": "Noms, dates et mentions officielles transcrits et vérifiés avec soin."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Des traductions sur lesquelles l'administration peut compter",
+    "intro": "Toutes mes traductions peuvent être remises en version jurée, prêtes à être déposées auprès des administrations belges.",
+    "badgeSworn": "Version jurée",
+    "badgeOral": "Oral",
+    "other": "Autre demande",
+    "items": {
+      "civil": {
+        "title": "État civil",
+        "text": "Actes de naissance, de mariage et de divorce, actes de décès, documents d'identité et compositions de ménage."
+      },
+      "residence": {
+        "title": "Séjour & asile",
+        "text": "Pièces pour l'Office des Étrangers, le CGRA, les demandes de regroupement familial et de nationalité."
+      },
+      "legal": {
+        "title": "Juridique",
+        "text": "Jugements, procurations, contrats, extraits de casier judiciaire et actes notariés."
+      },
+      "education": {
+        "title": "Diplômes & études",
+        "text": "Diplômes, relevés de notes et attestations pour les demandes d'équivalence et les inscriptions."
+      },
+      "medical": {
+        "title": "Médical & administratif",
+        "text": "Rapports médicaux, attestations, courriers officiels et documents de la vie courante."
+      },
+      "interpreting": {
+        "title": "Interprétariat",
+        "text": "Accompagnement oral farsi/dari ↔ français lors d'audiences et de rendez-vous administratifs, médicaux ou chez l'avocat."
+      }
+    }
+  },
+  "languages": {
+    "eyebrow": "Langues de travail",
+    "title": "Entre le persan et le français, sans rien perdre en chemin.",
+    "farsi": "Farsi",
+    "dari": "Dari",
+    "french": "Français",
+    "farsiRegion": "Persan d'Iran",
+    "dariRegion": "Persan d'Afghanistan",
+    "target": "Langue source et cible",
+    "written": {
+      "label": "Traduction écrite",
+      "note": "Traductions jurées dans les deux sens"
+    },
+    "oral": {
+      "label": "Interprétariat",
+      "note": "Audiences, rendez-vous, entretiens"
+    },
+    "expertise": {
+      "title": "Deux variantes, une même exigence",
+      "text": "Le farsi et le dari sont deux variantes du persan, mais leur vocabulaire administratif diffère. Noms propres, dates du calendrier persan, intitulés officiels : chaque détail est transposé avec exactitude.",
+      "bullets": {
+        "names": "Translittération cohérente des noms propres",
+        "dates": "Conversion des dates du calendrier persan",
+        "terms": "Terminologie administrative et juridique belge"
+      },
+      "conversion": "Calendrier persan → grégorien"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Témoignages",
+    "title": "Ils m'ont fait confiance",
+    "items": []
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Parlons de votre document",
+    "intro": "Envoyez-moi quelques informations et je vous réponds rapidement avec un devis clair. Vous pouvez aussi m'appeler ou m'écrire sur WhatsApp.",
+    "direct": {
+      "phone": "Téléphone",
+      "whatsapp": "WhatsApp",
+      "whatsappAction": "Écrire sur WhatsApp",
+      "email": "E-mail"
+    },
+    "form": {
+      "title": "Demande de devis",
+      "name": "Nom",
+      "namePh": "Votre nom",
+      "email": "E-mail",
+      "emailPh": "vous@exemple.be",
+      "phone": "Téléphone (facultatif)",
+      "phonePh": "04xx xx xx xx",
+      "service": "Type de demande",
+      "servicePh": "Choisir…",
+      "sourceLang": "Langue du document",
+      "unsure": "Je ne sais pas",
+      "message": "Message",
+      "messagePh": "Type de document, nombre de pages, délai souhaité…",
+      "submit": "Envoyer la demande",
+      "sending": "Envoi en cours…"
+    },
+    "errors": {
+      "required": "Ce champ est requis.",
+      "email": "Adresse e-mail invalide."
+    },
+    "success": {
+      "title": "Merci, votre demande est bien envoyée.",
+      "text": "Je reviens vers vous dans les meilleurs délais.",
+      "again": "Envoyer une autre demande"
+    }
+  },
+  "footer": {
+    "tagline": "Traductions jurées et interprétariat · farsi, dari ↔ français",
+    "nav": "Navigation",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "vat": "N° d'entreprise",
+    "top": "Retour en haut"
+  }
+}

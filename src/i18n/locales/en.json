@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "NM traductions · Neda Mesgari, sworn Farsi, Dari and French translator-interpreter",
+    "description": "Sworn translations from Farsi and Dari into French, and from French into Farsi and Dari. Interpreting services in Belgium: civil status records, residence documents, legal documents and diplomas."
+  },
+  "person": {
+    "name": "Neda Mesgari"
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "languages": "Languages",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "cta": "Request a quote",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Choose language",
+    "skip": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "Sworn translator & interpreter",
+    "rotatingSr": "Translation",
+    "lead": "Sworn translations between Farsi, Dari and French, in both directions, and interpreting for public services, lawyers and individuals in Belgium.",
+    "ctaPrimary": "Request a quote",
+    "ctaSecondary": "View services",
+    "conversion": "Persian → Gregorian calendar",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Precision from one language to another, with the rigour official documents demand.",
+    "p1": "My name is Neda Mesgari. As a sworn translator and interpreter, I support public services, lawyers, social services and individuals with their procedures in Belgium. I faithfully translate your documents from Farsi and Dari into French, and from French into Farsi and Dari.",
+    "p2": "Every translation is a document with consequences: one misspelt name or one wrongly converted date, and an entire file is delayed. I work methodically and in strict confidence, so your documents are accepted the first time.",
+    "portraitAlt": "Portrait of Neda Mesgari",
+    "points": {
+      "sworn": {
+        "title": "Sworn",
+        "text": "Registered in the Belgian National Register of sworn translators and interpreters."
+      },
+      "confidential": {
+        "title": "Confidential",
+        "text": "Professional secrecy guaranteed for every document and every conversation."
+      },
+      "precise": {
+        "title": "Meticulous",
+        "text": "Names, dates and official wording carefully rendered and checked."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Translations public authorities can rely on",
+    "intro": "All my translations can be delivered as sworn translations, ready to be submitted to Belgian public authorities.",
+    "badgeSworn": "Sworn version",
+    "badgeOral": "Spoken",
+    "other": "Other request",
+    "items": {
+      "civil": {
+        "title": "Civil status",
+        "text": "Birth, marriage and divorce certificates, death certificates, identity documents and household composition records."
+      },
+      "residence": {
+        "title": "Residence & asylum",
+        "text": "Documents for the Immigration Office, the CGRS, family reunification and nationality applications."
+      },
+      "legal": {
+        "title": "Legal",
+        "text": "Judgments, powers of attorney, contracts, criminal record extracts and notarial deeds."
+      },
+      "education": {
+        "title": "Diplomas & education",
+        "text": "Diplomas, transcripts and certificates for recognition applications and enrolments."
+      },
+      "medical": {
+        "title": "Medical & administrative",
+        "text": "Medical reports, certificates, official letters and everyday documents."
+      },
+      "interpreting": {
+        "title": "Interpreting",
+        "text": "Spoken Farsi/Dari ↔ French support at hearings and at appointments with public services, doctors or lawyers."
+      }
+    }
+  },
+  "languages": {
+    "eyebrow": "Working languages",
+    "title": "Between Persian and French, with nothing lost along the way.",
+    "farsi": "Farsi",
+    "dari": "Dari",
+    "french": "French",
+    "farsiRegion": "Persian of Iran",
+    "dariRegion": "Persian of Afghanistan",
+    "target": "Source and target language",
+    "written": {
+      "label": "Written translation",
+      "note": "Sworn translations in both directions"
+    },
+    "oral": {
+      "label": "Interpreting",
+      "note": "Hearings, appointments, interviews"
+    },
+    "expertise": {
+      "title": "Two variants, one standard of precision",
+      "text": "Farsi and Dari are two variants of Persian, but their administrative vocabulary differs. Proper names, dates from the Persian calendar, official titles: every detail is rendered accurately.",
+      "bullets": {
+        "names": "Consistent transliteration of proper names",
+        "dates": "Conversion of dates from the Persian calendar",
+        "terms": "Belgian administrative and legal terminology"
+      },
+      "conversion": "Persian → Gregorian calendar"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "They trusted me",
+    "items": []
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk about your document",
+    "intro": "Send me a few details and I'll get back to you quickly with a clear quote. You can also call me or message me on WhatsApp.",
+    "direct": {
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "whatsappAction": "Message on WhatsApp",
+      "email": "Email"
+    },
+    "form": {
+      "title": "Quote request",
+      "name": "Name",
+      "namePh": "Your name",
+      "email": "Email",
+      "emailPh": "you@example.com",
+      "phone": "Phone (optional)",
+      "phonePh": "+32 4xx xx xx xx",
+      "service": "Type of request",
+      "servicePh": "Choose…",
+      "sourceLang": "Document language",
+      "unsure": "Not sure",
+      "message": "Message",
+      "messagePh": "Type of document, number of pages, preferred deadline…",
+      "submit": "Send request",
+      "sending": "Sending…"
+    },
+    "errors": {
+      "required": "This field is required.",
+      "email": "Invalid email address."
+    },
+    "success": {
+      "title": "Thank you, your request has been sent.",
+      "text": "I will get back to you as soon as possible.",
+      "again": "Send another request"
+    }
+  },
+  "footer": {
+    "tagline": "Sworn translations and interpreting · Farsi, Dari ↔ French",
+    "nav": "Navigation",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "vat": "Company no.",
+    "top": "Back to top"
+  }
+}

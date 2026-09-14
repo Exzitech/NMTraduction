@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "NM traductions · Neda Mesgari, beëdigd vertaler-tolk Farsi, Dari en Frans",
+    "description": "Beëdigde vertalingen uit het Farsi en het Dari naar het Frans, en uit het Frans naar het Farsi en het Dari. Tolkdiensten in België: akten van de burgerlijke stand, verblijfsdocumenten, juridische stukken en diploma's."
+  },
+  "person": {
+    "name": "Neda Mesgari"
+  },
+  "nav": {
+    "about": "Over mij",
+    "services": "Diensten",
+    "languages": "Talen",
+    "testimonials": "Getuigenissen",
+    "contact": "Contact",
+    "cta": "Offerte aanvragen",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten",
+    "language": "Taal kiezen",
+    "skip": "Naar de inhoud"
+  },
+  "hero": {
+    "eyebrow": "Beëdigd vertaler-tolk",
+    "rotatingSr": "Vertaling",
+    "lead": "Beëdigde vertalingen tussen het Farsi, het Dari en het Frans, in beide richtingen, en tolkdiensten voor overheidsdiensten, advocaten en particulieren in België.",
+    "ctaPrimary": "Offerte aanvragen",
+    "ctaSecondary": "Bekijk de diensten",
+    "conversion": "Perzische → gregoriaanse kalender",
+    "scroll": "Scrollen"
+  },
+  "about": {
+    "eyebrow": "Over mij",
+    "title": "Nauwkeurig van de ene taal naar de andere, zorgvuldig zoals een officieel document vraagt.",
+    "p1": "Mijn naam is Neda Mesgari. Als beëdigd vertaler en tolk begeleid ik overheidsdiensten, advocaten, sociale diensten en particulieren bij hun procedures in België. Ik vertaal uw documenten getrouw uit het Farsi en het Dari naar het Frans, en uit het Frans naar het Farsi en het Dari.",
+    "p2": "Elke vertaling is een document met gevolgen: één verkeerd overgenomen naam of één foutief omgerekende datum, en een heel dossier loopt vertraging op. Ik werk methodisch en in strikte vertrouwelijkheid, zodat uw documenten meteen aanvaard worden.",
+    "portraitAlt": "Portret van Neda Mesgari",
+    "points": {
+      "sworn": {
+        "title": "Beëdigd",
+        "text": "Ingeschreven in het Nationaal Register van beëdigd vertalers en tolken."
+      },
+      "confidential": {
+        "title": "Vertrouwelijk",
+        "text": "Beroepsgeheim gegarandeerd voor elk document en elk gesprek."
+      },
+      "precise": {
+        "title": "Nauwgezet",
+        "text": "Namen, datums en officiële vermeldingen zorgvuldig omgezet en gecontroleerd."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Diensten",
+    "title": "Vertalingen waarop de administratie kan rekenen",
+    "intro": "Al mijn vertalingen kunnen als beëdigde vertaling worden geleverd, klaar om in te dienen bij de Belgische overheidsdiensten.",
+    "badgeSworn": "Beëdigde versie",
+    "badgeOral": "Mondeling",
+    "other": "Andere aanvraag",
+    "items": {
+      "civil": {
+        "title": "Burgerlijke stand",
+        "text": "Geboorte-, huwelijks- en echtscheidingsakten, overlijdensakten, identiteitsdocumenten en gezinssamenstellingen."
+      },
+      "residence": {
+        "title": "Verblijf & asiel",
+        "text": "Documenten voor de Dienst Vreemdelingenzaken, het CGVS, gezinshereniging en nationaliteitsaanvragen."
+      },
+      "legal": {
+        "title": "Juridisch",
+        "text": "Vonnissen, volmachten, contracten, uittreksels uit het strafregister en notariële akten."
+      },
+      "education": {
+        "title": "Diploma's & studies",
+        "text": "Diploma's, puntenlijsten en attesten voor gelijkwaardigheidsaanvragen en inschrijvingen."
+      },
+      "medical": {
+        "title": "Medisch & administratief",
+        "text": "Medische verslagen, attesten, officiële brieven en alledaagse documenten."
+      },
+      "interpreting": {
+        "title": "Tolken",
+        "text": "Mondelinge begeleiding Farsi/Dari ↔ Frans bij hoorzittingen en afspraken bij overheidsdiensten, artsen of advocaten."
+      }
+    }
+  },
+  "languages": {
+    "eyebrow": "Werktalen",
+    "title": "Tussen het Perzisch en het Frans, zonder iets te verliezen.",
+    "farsi": "Farsi",
+    "dari": "Dari",
+    "french": "Frans",
+    "farsiRegion": "Perzisch uit Iran",
+    "dariRegion": "Perzisch uit Afghanistan",
+    "target": "Bron- en doeltaal",
+    "written": {
+      "label": "Schriftelijke vertaling",
+      "note": "Beëdigde vertalingen in beide richtingen"
+    },
+    "oral": {
+      "label": "Tolken",
+      "note": "Hoorzittingen, afspraken, gesprekken"
+    },
+    "expertise": {
+      "title": "Twee varianten, dezelfde nauwkeurigheid",
+      "text": "Farsi en Dari zijn twee varianten van het Perzisch, maar hun administratieve woordenschat verschilt. Eigennamen, datums uit de Perzische kalender, officiële benamingen: elk detail wordt nauwkeurig omgezet.",
+      "bullets": {
+        "names": "Consequente transliteratie van eigennamen",
+        "dates": "Omrekening van datums uit de Perzische kalender",
+        "terms": "Belgische administratieve en juridische terminologie"
+      },
+      "conversion": "Perzische → gregoriaanse kalender"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Getuigenissen",
+    "title": "Zij vertrouwden op mij",
+    "items": []
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Laten we uw document bespreken",
+    "intro": "Stuur me enkele gegevens en ik bezorg u snel een duidelijke offerte. U kunt me ook bellen of een bericht sturen via WhatsApp.",
+    "direct": {
+      "phone": "Telefoon",
+      "whatsapp": "WhatsApp",
+      "whatsappAction": "Bericht via WhatsApp",
+      "email": "E-mail"
+    },
+    "form": {
+      "title": "Offerteaanvraag",
+      "name": "Naam",
+      "namePh": "Uw naam",
+      "email": "E-mail",
+      "emailPh": "u@voorbeeld.be",
+      "phone": "Telefoon (optioneel)",
+      "phonePh": "04xx xx xx xx",
+      "service": "Soort aanvraag",
+      "servicePh": "Kiezen…",
+      "sourceLang": "Taal van het document",
+      "unsure": "Weet ik niet",
+      "message": "Bericht",
+      "messagePh": "Soort document, aantal pagina's, gewenste termijn…",
+      "submit": "Aanvraag versturen",
+      "sending": "Bezig met versturen…"
+    },
+    "errors": {
+      "required": "Dit veld is verplicht.",
+      "email": "Ongeldig e-mailadres."
+    },
+    "success": {
+      "title": "Bedankt, uw aanvraag is verstuurd.",
+      "text": "Ik neem zo snel mogelijk contact met u op.",
+      "again": "Nog een aanvraag versturen"
+    }
+  },
+  "footer": {
+    "tagline": "Beëdigde vertalingen en tolkdiensten · Farsi, Dari ↔ Frans",
+    "nav": "Navigatie",
+    "contact": "Contact",
+    "rights": "Alle rechten voorbehouden.",
+    "vat": "Ondernemingsnr.",
+    "top": "Terug naar boven"
+  }
+}
